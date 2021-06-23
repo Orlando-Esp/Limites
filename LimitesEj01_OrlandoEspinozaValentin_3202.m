@@ -10,7 +10,7 @@
 
 %limpia la pantalla y las variables.
 clc, clear
-%Numero de  y define los intervalos.
+%Numero de rectangulos y define los intervalos.
 a = 5;
 b = 0;
 n = 20;
